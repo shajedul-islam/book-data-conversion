@@ -1,0 +1,4 @@
+name: Effective Java
+Authors: Joshua Bloch, James gosling
+ISBN: u9348984995898493
+published date: October 2005

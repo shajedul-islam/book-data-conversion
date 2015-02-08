@@ -1,0 +1,8 @@
+{ 
+  book: {
+    name: "Effective Java",  
+    authors: ["Joshua Bloch", "James Gosling"], 
+    isbn: "u9348984995898493", 
+    publishedDate: "October 2005"   
+  } 
+}
